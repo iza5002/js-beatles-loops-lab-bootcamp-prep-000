@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   function theBeatlesPlay(musicians, instruments){
     var array = [];
@@ -18,3 +19,16 @@ function johnLennonFacts(facts) {
 }
 return results;
 }
+=======
+function BeatlesLoops(array){
+  
+  function theBeatlesPlay(obj, key){
+  return Math.random() >= 0.5
+}
+ 
+do {
+  array.push();
+} while (array.length > -1 && maybeTrue());
+return array
+}
+>>>>>>> 55cd624ebf476436ea762af2d52214ea57cda428
